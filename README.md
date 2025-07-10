@@ -53,16 +53,3 @@ Standardized brochure generation with AI-powered content verification and multi-
 ---
 
 *Demonstrates advanced LLM orchestration, web scraping, and production AI development.*
-
-curl https://api.anthropic.com/v1/messages \
-        --header "x-api-key: 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" \
-        --header "anthropic-version: 2023-06-01" \
-        --header "content-type: application/json" \
-        --data \
-    '{
-        "model": "claude-3-5-sonnet-20241022",
-        "max_tokens": 1024,
-        "messages": [
-            {"role": "user", "content": "Hello, world"}
-        ]
-    }'
