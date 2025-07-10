@@ -1,6 +1,6 @@
 # LLM Engineering - Exploring LLMs
 
-## Framewors
+## Frameworks
  - OpenAI
  - Ollama
  - HugingFace
