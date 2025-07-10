@@ -1,14 +1,14 @@
 # LLM Engineering - Exploring LLMs
 
-##Framewors
+## Framewors
  - OpenAI
- - ##Ollama
+ - Ollama
  - HugingFace
  - BeautifulSoup - html parser
 
-##Projects
+## Projects
 
-###Day 5 project: Company brochure. 
+### Day 5 project: Company brochure. 
 Build an assistant that analyzes the contents of several relevant pages from a company website 
 and creates a short brochure about the company for prospective customers, investors and recruits. Respond in markdown. Include details of company culture, customers and careers/jobs if you have the information. 
 
